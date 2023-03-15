@@ -1,0 +1,12 @@
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
