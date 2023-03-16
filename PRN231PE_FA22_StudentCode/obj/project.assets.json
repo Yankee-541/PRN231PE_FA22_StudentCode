@@ -1110,6 +1110,33 @@
         "runtime": {
           "bin/placeholder/BusinessObjects.dll": {}
         }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
       }
     }
   },
@@ -2863,11 +2890,22 @@
       "type": "project",
       "path": "../BusinessObjects/BusinessObjects.csproj",
       "msbuildProject": "../BusinessObjects/BusinessObjects.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessObjects >= 1.0.0",
+      "Repository >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2900,6 +2938,9 @@
           "projectReferences": {
             "F:\\Documents\\FPT_University\\Semester_8\\prn221\\PRN231PE_FA22_StudentCode\\BusinessObjects\\BusinessObjects.csproj": {
               "projectPath": "F:\\Documents\\FPT_University\\Semester_8\\prn221\\PRN231PE_FA22_StudentCode\\BusinessObjects\\BusinessObjects.csproj"
+            },
+            "F:\\Documents\\FPT_University\\Semester_8\\prn221\\PRN231PE_FA22_StudentCode\\Repository\\Repository.csproj": {
+              "projectPath": "F:\\Documents\\FPT_University\\Semester_8\\prn221\\PRN231PE_FA22_StudentCode\\Repository\\Repository.csproj"
             }
           }
         }

@@ -9,6 +9,7 @@
       "PRN231PE_FA22_StudentCode/1.0.0": {
         "dependencies": {
           "BusinessObjects": "1.0.0",
+          "Repository": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -625,6 +626,23 @@
         "runtime": {
           "BusinessObjects.dll": {}
         }
+      },
+      "DataAccess/1.0.0": {
+        "dependencies": {
+          "BusinessObjects": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "BusinessObjects": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        }
       }
     }
   },
@@ -1062,6 +1080,16 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

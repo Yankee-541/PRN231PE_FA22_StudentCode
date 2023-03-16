@@ -12,3 +12,17 @@ C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\n
 C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
 C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
 C:\Documents\FPT\PRN231\PE\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+F:\Documents\FPT_University\Semester_8\prn221\PRN231PE_FA22_StudentCode\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
